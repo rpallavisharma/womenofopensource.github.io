@@ -23,7 +23,7 @@ profiles:                                 # all optional — only those you add 
   website: https://linktr.ee/rpallavisharma
 talks:                                    # optional — one entry per talk
   - title: "Multiple talks in various conferences and meetups"
-    abstract: " "
+    abstract: " Multiple talks in various conferences and meetups "
     delivered_at: "https://5elementslearning.dev/conf.php"
 hero_image: '/images/speakers/pallavi-sharma.jpg' # optional banner; falls back to a default photo
 ---
