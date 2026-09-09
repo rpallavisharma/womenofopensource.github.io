@@ -3,7 +3,7 @@ title: Pallavi Sharma                       # browser tab / SEO title (usually s
 name: Pallavi Sharma                        # display name
 pronouns:                          # optional (e.g. she/her, they/them, he/him)
 slug: pallavi-sharma                        # URL: /speakers/pallavi-sharma
-tagline: To see the runes in the ruins... to breathe in the between of let it be and let it go is a life I live | तत् त्वम् असि | ਸਬਰ ਸ਼ੁਕਰ | #BeKind
+tagline: "To see the runes in the ruins... to breathe in the between of let it be and let it go is a life I live | तत् त्वम् असि | ਸਬਰ ਸ਼ੁਕਰ | #BeKind"
 description: 
 featured_image: '/images/speakers/pallavi-sharma.jpg'
 location: India                  # country (used for the country filter)
